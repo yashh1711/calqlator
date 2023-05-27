@@ -71,10 +71,7 @@ class _MainAppState extends State<MainApp> {
                       ),
                       MyButtton(
                         data: '+/-',
-                        onPress: () {
-                          userInput += '+/-';
-                          setState(() {});
-                        },
+                        onPress: () {},
                       ),
                       MyButtton(
                         data: '%',
