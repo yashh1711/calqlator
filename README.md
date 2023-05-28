@@ -1,3 +1,3 @@
 # calqlator
 
-A new Flutter project.
+A basic calculator app built using flutter and dart.
